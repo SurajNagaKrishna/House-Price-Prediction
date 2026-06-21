@@ -120,29 +120,7 @@ Example Results:
 
 ---
 
-## 📂 Project Structure
 
-```
-House-Price-Prediction/
-│
-├── data/
-│   ├── train.csv
-│   └── test.csv
-│
-├── notebooks/
-│   └── HousePricePrediction.ipynb
-│
-├── models/
-│   └── best_model.pkl
-│
-├── images/
-│   └── visualizations
-│
-├── README.md
-└── requirements.txt
-```
-
----
 
 ## ▶️ How to Run
 
